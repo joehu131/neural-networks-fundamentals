@@ -1,4 +1,4 @@
-# Machine Learning & Neural Networks: Foundations to Frameworks
+# Machine Learning & Neural Networks
 
 A structured collection of machine learning algorithms, deep neural network architectures, ensemble methods, and reinforcement learning systems. Implementations range from first-principles vector calculus in NumPy to deep convolutional networks in TensorFlow/Keras.
 
