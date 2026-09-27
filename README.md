@@ -8,7 +8,7 @@ A structured collection of machine learning algorithms, deep neural network arch
 
 ```
                         ┌────────────────────────────────────────────────────────┐
-                        │      Machine Learning Implementation Roadmap           │
+                        │                  Project Strucutre                     │
                         └──────────────────────────┬─────────────────────────────┘
                                                    │
          ┌───────────────────┬─────────────────────┼─────────────────────┬───────────────────┐
@@ -88,13 +88,6 @@ Launch JupyterLab to interact with any module:
 ```bash
 jupyter lab
 ```
-
-Recommended execution order:
-1. `01-classical-knn/kNN.ipynb`
-2. `02-perceptrons-backpropagation/SingleLayer.ipynb` followed by `MultiLayer.ipynb`
-3. `03-deep-learning-cnn/CIFAR10-Lab.ipynb`
-4. `04-adaboost-face-detection/AdaBoost.ipynb`
-5. `05-reinforcement-learning-qlearning/QLearning.ipynb`
 
 ---
 
